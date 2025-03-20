@@ -1,0 +1,214 @@
+{
+  "customer": [
+    {
+      "id": "1",
+      "customerName": "John Doe",
+      "location": "New York, USA",
+      "email": "johndoe@example.com"
+    },
+    {
+      "id": "2",
+      "customerName": "Jane Smith",
+      "location": "Los Angeles, USA",
+      "email": "janesmith@example.com"
+    },
+    {
+      "id": "3",
+      "customerName": "Michael Johnson",
+      "location": "London, UK",
+      "email": "michael.johnson@example.co.uk"
+    },
+    {
+      "id": "4",
+      "customerName": "Emily Davis",
+      "location": "Toronto, Canada",
+      "email": "emily.davis@example.ca"
+    },
+    {
+      "id": "5",
+      "customerName": "Chris Brown",
+      "location": "Sydney, Australia",
+      "email": "chris.brown@example.com.au"
+    }
+  ],
+  "pages": [
+    {
+      "id": "101",
+      "linkRef": "/home",
+      "linkText": "Home"
+    },
+    {
+      "id": "102",
+      "linkRef": "/about",
+      "linkText": "About Us"
+    },
+    {
+      "id": "103",
+      "linkRef": "/product",
+      "linkText": "Products"
+    }
+  ],
+  "payments": [
+    {
+      "id": "1",
+      "customerName": "John Doe",
+      "Amount": 150.75,
+      "Currency": "USD"
+    },
+    {
+      "id": "2",
+      "customerName": "Jane Smith",
+      "Amount": 200,
+      "Currency": "EUR"
+    },
+    {
+      "id": "3",
+      "customerName": "Sharad",
+      "amount": "450000000",
+      "currency": "PKR"
+    },
+    {
+      "id": "4",
+      "customerName": "Kasim",
+      "amount": "540000",
+      "currency": "UPR"
+    },
+    {
+      "id": "5",
+      "customerName": "Usman",
+      "amount": "1000000000000000",
+      "currency": "PCMC"
+    },
+    {
+      "id": "5",
+      "customerName": "Usman",
+      "amount": "1000000000000000",
+      "currency": "PCMC"
+    },
+    {
+      "id": "6",
+      "customerName": "Akriti",
+      "amount": "19999999999999999999",
+      "currency": "KKR"
+    },
+    {
+      "id": "9",
+      "customerName": "Junaid",
+      "amount": "100",
+      "currency": "9999"
+    },
+    {
+      "id": "10",
+      "customerName": "Wasim",
+      "amount": "5",
+      "currency": "II"
+    },
+    {
+      "id": "11",
+      "customerName": "AABB",
+      "amount": "12345",
+      "currency": "NAG"
+    },
+    {
+      "id": "11",
+      "customerName": "AABB",
+      "amount": "12345",
+      "currency": "NAG"
+    },
+    {
+      "id": "aaa",
+      "customerName": "",
+      "amount": "",
+      "currency": ""
+    },
+    {
+      "id": "99",
+      "customerName": "",
+      "amount": "",
+      "currency": ""
+    },
+    {
+      "id": "33",
+      "customerName": "wer",
+      "amount": "1234567",
+      "currency": "EE"
+    },
+    {
+      "id": "55",
+      "customerName": "43",
+      "amount": "23",
+      "currency": "PP"
+    },
+    {
+      "id": "88",
+      "customerName": "asd",
+      "amount": "88",
+      "currency": "dsa"
+    },
+    {
+      "id": "77",
+      "customerName": "Kartikekya",
+      "amount": "9999999",
+      "currency": "PPPPPPPP"
+    },
+    {
+      "id": "44",
+      "customerName": "Lewis Hamilton",
+      "amount": "60",
+      "currency": "USD"
+    }
+  ],
+  "profiles": [
+    {
+      "id": "1",
+      "Name": "John Doe",
+      "avatar": "/avatars/avatar1.jpg",
+      "tagName": "johndoe"
+    },
+    {
+      "id": "2",
+      "Name": "Jane Smith",
+      "avatar": "/avatars/avatar2.jpg",
+      "tagName": "janesmith"
+    },
+    {
+      "id": "3",
+      "Name": "Alice Johnson",
+      "avatar": "/avatars/avatar3.jpg",
+      "tagName": "alicejohnson"
+    }
+  ],
+  "users": [
+    {
+      "id": "c736"
+    },
+    {
+      "id": "9bf6",
+      "username": "",
+      "password": "aaa",
+      "userName": "asdqd"
+    },
+    {
+      "id": "d08e",
+      "username": "",
+      "password": "aaaa",
+      "userName": "asdq"
+    },
+    {
+      "id": "688f",
+      "username": "",
+      "password": "password",
+      "userName": "Hello"
+    },
+    {
+      "id": "008b",
+      "username": "qwerty",
+      "password": "123"
+    },
+    {
+      "id": "0f34",
+      "username": "Zavyaaa",
+      "password": "123"
+    }
+  ]
+}
